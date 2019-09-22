@@ -1,0 +1,19 @@
+4 2 15
+1 2 4 8
+6 5 3 9
+
+Vontobel Upper Bound = 6
+
+Vontobel Upper Bound = 6
+
+Vontobel Upper Bound = 6
+
+VontobelTh7 Upper Bound = 4
+
+VontobelTh7 Upper Bound = 6
+
+VontobelTh7 Upper Bound = 6
+
+VontobelTh7 Upper Bound = 6
+
+VontobelTh7 Upper Bound = 6
